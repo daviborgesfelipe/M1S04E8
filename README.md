@@ -5,6 +5,7 @@ Dado o array de cidades abaixo, filtre apenas as cidades com mais de 200000 habi
 Após o filtro ordene por ordem decrescente de acordo com a população (primeiro cidades mais populosas);
 
 cidades: [
+
 { nome: 'Patos de Minas', populacao: 153585 },
 
 { nome: 'Lages', populacao: 157349 },
